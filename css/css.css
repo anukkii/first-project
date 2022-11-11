@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(252, 230, 206);
+}
+
+h1{
+    color: brown;
+    text-align: center;
+    font-family: 'Bungee Spice', cursive;
+    font-size: 40px;
+}
+
+h2{
+    font-size: 25px;
+    color: brown;
+    text-align: center;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+h3{
+    font-style: italic;
+    color: brown;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Sacramento', cursive;
+}
+
+.prof{
+    display: block;
+    margin-top: auto;
+    display: flex;
+}
+
+
+div.profile{
+    display: flex;
+}
+
+#img{
+    width: 27%;    
+}
+
+#p{
+    width: 38%;
+    float: left;
+    font-size: 16px;
+    font-family: 'Rajdhani', sans-serif;
+    margin-left: 25px;
+}
+
+#p2{
+    width: 33%;
+    float: right;
+    font-size: 16px;
+    font-family: 'Rajdhani', sans-serif;
+    
+}
+
+#album{
+    width: 50%;
+    float: left;
+    
+}
+#songs{
+    width: 50%;
+    float: right;
+
+}
+
+a{
+    font-size: 20px;
+    color: rgb(66, 2, 2);
+}
+
+a:hover{
+    font-size: 35px;
+}
+
+.hover{
+    color: rgb(104, 35, 35);
+}
+
+li:hover{
+    font-size: 30px;
+}
+
+img{
+    
+    border-radius: 100%;  
+}
